@@ -3,7 +3,7 @@
 
 <div align="center" className="bg-white">
   <a href="https://github.com/EngPay/">
-    <img className="bg-white" src="logo.png" alt="Logo" width="250" height="90">
+    <img className="bg-white" src="logo.png" alt="Logo" width="100" height="100">
   </a>
 
 <h3 align="center">EngFunds - A Fully Decentralized Crowdfunding Platform</h3>
